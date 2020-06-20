@@ -3,24 +3,44 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-ionicons
+        Codwerk
       </h1>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://www.linkedin.com/in/widdy-louis/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green"
         >
+          <i class="icon ion-logo-linkedin"></i>
           Documentation
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://codepen.io/codwerk"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+        <i class="icon ion-logo-codepen"></i>
+          codwerk
+        </a>
+        <a
+          href="https://github.com/codwerk"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--grey"
+        >
+        <i class="icon ion-logo-github"></i>
+          codwerk
+        </a>
+        <a
+          href="https://www.instagram.com/codwerk/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--grey"
+        >
+        <i class="icon ion-logo-instagram"></i>
+          codwerk
         </a>
       </div>
     </div>
